@@ -1,0 +1,67 @@
+{
+  "fruits": [
+    {
+      "name": "mango",
+      "quantity": 1,
+      "price": 50,
+      "imageUrl": "http://frocup.com/wp-content/uploads/2015/03/Mango.jpg",
+      "id": 1
+    },
+    {
+      "name": "apple",
+      "quantity": 2,
+      "price": 545,
+      "imageUrl": "https://tse1.mm.bing.net/th?id=OIP.2Rc91Rs5akSvSw45awKV3gHaEr&pid=Api&P=0&h=180",
+      "id": 2
+    },
+    {
+      "name": "banana",
+      "quantity": 4,
+      "price": 500,
+      "imageUrl": "https://tse1.mm.bing.net/th?id=OIP.SpulJp_bWLAmhWviKz2irgHaFj&pid=Api&P=0&h=180",
+      "id": 3
+    },
+    {
+      "name": "banana",
+      "quantity": 55,
+      "price": 55,
+      "imageUrl": "https://static9.depositphotos.com/1642482/1149/i/450/depositphotos_11490587-stock-photo-bananas.jpg",
+      "id": 4
+    },
+    {
+      "name": "grapes",
+      "quantity": 6,
+      "price": 888,
+      "imageUrl": "https://tse1.mm.bing.net/th?id=OIP.EdbP3psVKVbB55sfeRsB2gHaE8&pid=Api&P=0&h=180",
+      "id": 6
+    },
+    {
+      "name": "mango",
+      "quantity": 44,
+      "price": 1500,
+      "imageUrl": "http://frocup.com/wp-content/uploads/2015/03/Mango.jpg",
+      "id": 7
+    },
+    {
+      "name": "mango",
+      "quantity": 5,
+      "price": 60,
+      "imageUrl": "http://wallsdesk.com/wp-content/uploads/2017/01/Pictures-of-Mango-.jpg",
+      "id": 9
+    },
+    {
+      "name": "drogan fruit",
+      "quantity": 2,
+      "price": 300,
+      "imageUrl": "https://tse4.mm.bing.net/th?id=OIP.ETS_iygRLLF7XS1PJldNCwHaE8&pid=Api&P=0&h=180",
+      "id": 10
+    },
+    {
+      "name": "strawberry",
+      "quantity": 3,
+      "price": 300,
+      "imageUrl": "https://tse4.mm.bing.net/th?id=OIP.Kqt8PDpFO8BJOEKLAHRCCwHaEo&pid=Api&P=0&h=180",
+      "id": 11
+    }
+  ]
+}
